@@ -1,0 +1,63 @@
+[432:457:1012/093250.508998:ERROR:bus.cc(397)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[432:457:1012/093250.509929:ERROR:bus.cc(397)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[432:455:1012/093250.547324:ERROR:bus.cc(397)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[432:455:1012/093250.547458:ERROR:bus.cc(397)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[432:432:1012/093250.554073:WARNING:account_consistency_mode_manager.cc(70)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[432:455:1012/093250.586040:ERROR:bus.cc(397)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[432:455:1012/093250.590470:ERROR:bus.cc(397)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[432:455:1012/093251.000975:ERROR:bus.cc(397)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[432:455:1012/093251.001088:ERROR:bus.cc(397)] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[432:432:1012/093252.064016:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[468:468:1012/093252.217743:ERROR:viz_main_impl.cc(188)] Exiting GPU process due to errors during initialization
+[432:523:1012/093252.584382:ERROR:bus.cc(397)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[432:523:1012/093252.584481:ERROR:bus.cc(397)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[432:523:1012/093252.584565:ERROR:bus.cc(397)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[432:523:1012/093252.584603:WARNING:property.cc(144)] DaemonVersion: GetAndBlock: failed.
+[432:523:1012/093252.584668:ERROR:bus.cc(397)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[432:523:1012/093252.584746:ERROR:bus.cc(397)] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[524:524:1012/093252.855122:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+[469:486:1012/093258.199453:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.200104:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.200624:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.201148:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.201715:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.202246:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.202836:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.203363:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.209798:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.210385:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.212095:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.213157:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.234635:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.239202:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.241785:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.242379:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.243067:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.244177:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.244704:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.245629:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.251385:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.252219:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.252985:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.253944:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.254956:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.255769:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.256679:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.260754:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.262785:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.263707:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.264686:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.265545:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.266317:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.267075:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.267717:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.268532:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.269477:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.270709:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.272513:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.273473:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.275396:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.277816:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.295332:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[469:486:1012/093258.364084:ERROR:broker_posix.cc(46)] Received unexpected number of handles
+[432:432:1012/093301.542900:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
